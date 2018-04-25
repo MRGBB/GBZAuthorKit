@@ -13,6 +13,7 @@
 #import <GBZConfigKit/GBZConfigKit-umbrella.h>
 #import <GBZToolsKit/GBZToolsKit-umbrella.h>
 #import <GBZMainViewKit/GBZMainViewKit-umbrella.h>
+#import <GBZReformerKeysKit/GBZReformerKeysKit-umbrella.h>
 
 #import <ReactiveCocoa/ReactiveCocoa.h>
 #import <Masonry/Masonry.h>

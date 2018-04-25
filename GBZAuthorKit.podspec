@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GBZAuthorKit'
-  s.version          = '1'
+  s.version          = '4'
   s.summary          = 'A short description of GBZAuthorKit.'
 
 # This description is used to generate tags and improve search results.
