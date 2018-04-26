@@ -52,6 +52,9 @@
 - (void)cellGoodTopicDidClick:(NSIndexPath *)indexPath params:(NSDictionary *)params {
 //    UIViewController *controller = [[FFSpecialDetailController alloc] init];
 //    [self.navigationController pushViewController:controller animated:YES];
+    
+        UIViewController *controller = [[CTMediator alloc]specialDetailController];
+        [self.navigationController pushViewController:controller animated:YES];
 }
 
 #pragma mark - getter

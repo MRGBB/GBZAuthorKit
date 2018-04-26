@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GBZAuthorKit'
-  s.version          = '4'
+  s.version          = '5'
   s.summary          = 'A short description of GBZAuthorKit.'
 
 # This description is used to generate tags and improve search results.
@@ -49,4 +49,6 @@ TODO: Add long description of the pod here.
   s.dependency 'GBZConfigKit'
   s.dependency 'GBZMainViewKit'
   s.dependency 'GBZReformerKeysKit'
+  s.dependency 'GBZAuthorKit_Category'
+  s.dependency 'GBZSpecialKit_Category'
 end
